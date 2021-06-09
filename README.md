@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SergejSachs
 - 👀 I’m interested in Angular, .NET Core and Flutter <3
-- 🌱 I’m currently working on my private flutter projects
+- 🌱 I’m currently working outside my usual dev job on my private flutter apps
 
 <!---
 SergejSachs/SergejSachs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
