@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SergejSachs
+- 👋 Hi, I’m @Sesa
 - 👀 I’m interested in Angular, .NET Core and Flutter <3
 - 🌱 I’m currently working outside of my day dev job on my private flutter apps
 
